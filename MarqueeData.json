@@ -1,0 +1,1986 @@
+[
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "VISTA-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "00787900-D49D-484A-BB2A-E757A396F045"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "RIVERSIDE-HUNTERPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0133F422-4BA7-4E0D-AA95-2DA2789C58E4"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "01BC6E5C-59D7-493B-9747-1C4D665D0CE1"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "05C2ABA6-FB24-4E95-B6E7-28D7975B87CA"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "BURBANK-AIRPORT-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0698F7B9-B1DB-4CC2-AE1D-FE7A283064C3"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0733EF0F-6F19-4684-A7B1-407798EFAE61"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "07F5D610-E018-4535-B8A8-87F0DBB70767"
+    },
+    {
+        "PlayTime": "\/Date(1727780400000)\/",
+        "Message": "EFFECTIVE NOW THROUGH DECEMBER 31, THE SANTE FE ROAD ENTRANCE WILL BE CLOSED TO ALL THROUGH TRAFFIC. DURING THIS TIME, USE THE FULTON ROAD ENTRANCE FOR TRAVEL, PARKING AND TICKET MACHINE USE. PEDESTRIAN ACCESS WILL BE OPEN FROM BOTH ENTRANCES.",
+        "Platform": "POMONA-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0811B0CF-1DEF-42D5-97E0-2C29B185C354"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "GLENDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "09073A9D-94A5-422F-B5E2-BD1EC24453AF"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "MOORPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0A6346E4-6F3D-4EAE-967D-9945FF557255"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "GLENDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0AA5523D-CE94-4A10-933F-AE227015EA5C"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "REDLANDS-ESRI",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0AE9D606-7E5F-4A7E-90C8-28313AB12D5A"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "RIVERSIDE-LASIERRA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0EA674D8-869C-434B-BBD7-3DEE3DBA2F92"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "OCEANSIDE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "0F842191-6732-4454-8141-450E1D5E7A42"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "136F4046-D1E5-4263-AA8D-7A3F0F7A9CFF"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "14281655-E3A3-4579-8BB2-53E8D3AA9193"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "17A50A47-3B4C-4ED2-BDD3-6DED8ED89F6D"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CORONA-WEST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "18700A21-CF62-4385-AF23-A3FE87343FB0"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANCLEMENTE-PIERSTATION",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "189D6218-99C7-4941-B67A-D1CB71FF96C6"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1B59F0E6-A979-4080-8C51-4AE4612F51A6"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "PERRIS-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1C7E63CA-B91C-4086-8BC1-ACDB4D758646"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "GLENDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1C913801-14F3-4DEC-BF62-6EED46E44852"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1CE5235F-903F-4C34-92D3-C4D3356FCC41"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1E29ED64-EF48-41B9-A92D-8E7FEC9A76F0"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "LANCASTER",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1E4C6E8E-76FB-4984-913E-E7C2FA5097CC"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "1E64BC2D-4D1E-40B9-963C-011A69E4D644"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "NEWHALL",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "211E6238-21C3-4D52-B5CF-48503D31AB60"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "238EC223-4756-4160-B6D5-6974C33531F8"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "VINCENTGRADE-ACTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "238F2A1C-57E3-424F-A764-4A4D5B14E82E"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "26D40995-2BDA-4FA3-811F-3428ABC1221D"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "OCEANSIDE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "27217B40-187A-433A-A588-ABA86AB6AE33"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANCLEMENTE-NORTHBEACH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "2765531E-A228-4BE4-ABD6-5E27B7F83E81"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "CORONA-WEST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "2772FC7C-5F68-4CCF-954B-6F834963FF54"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "PALMDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "28231EF5-A018-4FC3-B57B-5F167E96DDAA"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "287164FC-BD2F-4FE0-87EB-E0019A159952"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "VISTA-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "29A97042-983D-4EAC-898E-EB269F7C566A"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "2A312A99-8F0F-4B30-BF84-53F817EFCBC4"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "ANAHIEM-STADIUM",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "2B8F8FC3-FF5E-4921-B324-D17434E5E0D9"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "OCEANSIDE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "2F15426C-E697-44B1-AE11-AB78D51830FC"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "30AB8529-8403-4013-BC42-6666833A05BE"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "VANNUYS",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "31C3E321-D692-42F0-9023-BA4EED4F9DDB"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "OCEANSIDE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "33786F74-F0F1-459C-98B7-8707A2CB1AF7"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "342D9551-AC03-4111-9AC3-00138C1D906B"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "MONTEBELLO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "344AD202-CF77-4F73-B598-7768159AB504"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "REDLANDS-DOWNTOWN-ML",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3569511D-C68B-46BA-B398-5E826066ECFF"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "COMMERCE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "362E0E1F-0657-4CCD-A244-3F80AAACB8EC"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "CORONA-NORTHMAIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "36A3653E-E987-4E72-B237-4112497C02E3"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "ANAHIEM-STADIUM",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "36AC752E-C2CE-4CCD-8537-7E3CFD0966A2"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3A185E6A-C704-44F5-B160-C2610930C521"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "BURBANK-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3BE80401-DDC4-4B85-ADEA-42E19FD80820"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "BURBANK-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3C6467BA-31CC-4349-A6E6-4EF6129228FC"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3CBC997E-9C23-458B-9077-5AB59752BB01"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "NORTHRIDGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3F5E5F6D-2F10-4FB6-8C67-2C8DD83E954B"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-6",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3FAD0546-5FC2-4B06-8D99-EE8913DED4D1"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "POMONA-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "3FF8F35F-296A-4B59-895C-D93247E4609A"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "BURBANK-AIRPORT-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4106B7CC-D917-4ADC-8A0B-A4D7002CCD84"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANBERNARDINO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4110C533-CF67-4D89-8083-4588ACB2BA96"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "412CB558-6221-4430-965B-1119B0BA795F"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO ARROW SERVICE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANBERNARDINO-TIPPECANOE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4365EFE2-2378-47C6-9DC4-AF3C7F27A04A"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "MONTEBELLO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "43E16422-16C7-4FBD-A2B1-EB636E56BB74"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "SANBERNARDINO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "44B3B0C5-3C60-4A08-8748-3451F8E72BCD"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "44C701F7-4377-47B8-AECE-E5A090285712"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-7",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "451DE105-59B7-4D1E-8CB6-404A78B2F3C4"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "453A8D57-F9E6-49FC-988E-BE6C4EDD8A0E"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "ANAHEIM-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "46017E4A-6E2D-46D1-8651-EACBF52D621D"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "VENTURA-EAST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4718CA27-2914-480F-B7E4-77F953DDD62E"
+    },
+    {
+        "PlayTime": "\/Date(1727998710000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "47C25079-D046-43F6-944C-D26428E5371A"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "SANBERNARDINO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "492026F8-561A-4612-9F98-37F6D68E8F49"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4A7DF795-C151-4138-AA76-BF52F2C9657C"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "SUNVALLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4ABBF8EF-31C0-4945-A849-561C145D0C0D"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "VIAPRINCESSA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4AEEF199-07CE-4DD6-A7E3-F1504026E01F"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "ANAHEIM-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4B4F821B-42F7-48DB-9801-FF795D5A2D09"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "RIALTO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4B7A1A3E-E011-4C6B-8881-9DC6E334DCFD"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "ANAHIEM-STADIUM",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4BF1473D-BDA7-45D8-A987-9AA4F17C84AE"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "GLENDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4CCF1DD7-1D4F-4B6A-9721-42B72464301F"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO ARROW SERVICE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4D6796DD-9D48-43BE-B69A-F4181EFD8F7F"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "MONTCLAIR",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4D87B1D6-3DDE-40BF-9BCE-7F98A761ECA0"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4E410DD9-3FF1-4BA6-AB7E-DF565E89043A"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANCLEMENTE-NORTHBEACH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4E983987-CC39-4DC2-BDB0-044CC8FB65E1"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "ONTARIO-EAST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4FDE255A-7EA1-4818-B920-3E069FA224F1"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "4FEE19BF-00CD-4B66-AF51-FC180C011848"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "PALMDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "52458A3C-F438-4FFF-9F72-411918AB2C15"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "RANCHOCUCAMONGA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "55A2AE77-1D6B-4205-A611-CC26E52305FF"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "REDLANDS-DOWNTOWN-ARROW",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "56A72A12-1DEF-4186-88EC-A1D9E4A8F024"
+    },
+    {
+        "PlayTime": "\/Date(1727998710000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "57830F7B-5300-48A6-B8EF-D81B7296D27B"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANBERNARDINO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "59C8E0F2-D95C-4A9E-A97C-6C10F826147E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "RIVERSIDE-HUNTERPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "5B5268CC-83A5-4E95-88C8-7273890ED3FB"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "PEDLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "60BC4D23-713C-4C60-99D9-330083A3E5FB"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "60F49036-3266-4AF1-865D-92ACED82656A"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "CALSTATE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "61D0F929-99C1-430A-88B1-BE98EE37F5DC"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "SANTACLARITA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "61F22288-5630-43B7-9C8C-5A78330E63D5"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "CORONA-WEST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "61F79CFA-CF33-4A1A-8E53-CF10C5A536DE"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANBERNARDINO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "6363614E-5AD5-4CE8-A5A5-8CE311A91B18"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "OXNARD",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "638E8401-2A38-4EAD-BE85-A53C5819890A"
+    },
+    {
+        "PlayTime": "\/Date(1727998709000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "FULLERTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "63CA2BCB-50EF-4115-8771-CCF9F8329340"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "642A5B3D-F043-48FF-AD29-3BA7105BDEF0"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "67FD43C8-E729-4D65-A75A-B711EF01A170"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "FULLERTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "68A74312-48F3-49EF-A38D-A8D484F92BE6"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "68B53C8A-A502-4B62-AE6F-DD295ABFC61E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SUNVALLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "6A43F8AC-CF98-4D3A-BB7A-324DE2BF2489"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "LANCASTER",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "6A4602C8-355A-4FA0-88CE-969766266F7E"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "6B79669B-649D-4539-9654-33A0F1DCA2D7"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANCLEMENTE-PIERSTATION",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "6EB12917-980B-41F9-82E5-4A9A673CADF5"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CORONA-NORTHMAIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7054BF6C-39BC-455D-AD37-74C42D2646BD"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO ARROW SERVICE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "REDLANDS-UNIVERSITY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "73BDBAA3-254A-4046-89C5-AF0C2E9FE5E6"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "ANAHEIM-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "740BA0B6-7834-4236-A9A6-D18969434A5E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "RIALTO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "765FCFC4-7164-4E41-B66B-E313B9A02AB5"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "VINCENTGRADE-ACTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "76998AC1-7018-4218-BA85-2125416E9E4E"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7B2E9351-171E-4FF1-ADC2-88E160D0127B"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "BURBANK-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7BCAF917-3895-4347-AC5D-DF16A9266F90"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANCLEMENTE-NORTHBEACH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7C0938DF-BA03-4189-A164-12BDB5245438"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7C4B20CC-BF45-4547-97C1-D79FF8D49420"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7E304082-135C-41DB-B4C1-F7893CD59B70"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "VIAPRINCESSA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7EF6675E-EFBE-40D6-B901-0E2DEA0FE8A9"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "NEWHALL",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "7F4E0C80-BFE2-4E9E-96A9-87967FE297EA"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "BUENAPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8004FA61-BB64-4A86-8B4B-D00E8FFA17DA"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO ARROW SERVICE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "REDLANDS-ESRI",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "809522EC-6901-4944-A06B-6645786E26C7"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "PERRIS-SOUTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "85CFDCD4-CEDC-4C05-BD0E-0F8F3A1CC23B"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-7",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "865A0966-323A-4291-8EC8-6CA59603526A"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-2",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "89759C8D-5C18-45B1-8193-51C5ED781231"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "RANCHOCUCAMONGA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "89F1241C-66A8-424B-A460-A7AFFE790B69"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "INDUSTRY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8BDDD359-1635-48B2-AA3C-C63B6F3AB8D5"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "MOORPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8C709EAD-98FB-4D29-B46C-2B872B49BE09"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "OXNARD",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8D88B97C-8AFF-4A66-B242-270C127081C7"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "COVINA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8E3A4A79-6EC3-432B-8090-E2CC2F05420B"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "REDLANDS-DOWNTOWN-ML",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "8EA32FC5-480C-4B8C-BC1A-6CC0AC293929"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "90B35658-A0CE-4846-9E75-5635ECCB86F5"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "91E1EE60-861D-4F68-82A1-A115FE6FD7A6"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "924269A6-43B1-475F-A867-05D4F792FA52"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-7",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "92C11FAA-CB32-4703-B49B-DFDF278DEFFA"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "VENTURA-EAST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "93129528-C90A-42CB-B297-95BD0356F8C3"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "SANCLEMENTE-NORTHBEACH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "93EBB930-9595-4CDB-B068-A2BCDBEBEA3D"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "BURBANK-AIRPORT-SOUTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "94637130-2F1F-429C-BFB4-2BACAC1B11EC"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "ONTARIO-EAST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9553FE93-44AC-44E5-818E-78DE4E8088B4"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "MONTCLAIR",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "97C7BCF9-AF08-4DB8-9725-62FE0AE0D25C"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9812E056-B08B-401F-80C2-D6B27AB20797"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "IRVINE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9B1F5FC6-0053-46F0-B3D7-A89DF72D53E7"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "RIVERSIDE-LASIERRA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9BC130DE-16A7-4942-922D-D5D6FBB8CB64"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "COMMERCE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9BFF34E8-5C6C-45B2-9A41-27FE13B914D3"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "PERRIS-SOUTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9C014E1F-5904-4417-A8EF-C8D806FCDF9A"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9CE2CF18-9994-4C59-9F3B-E47320254B07"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9CFFE8D2-2A8A-4819-891A-6E12DD6855F8"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "COVINA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9DB86C2E-17EF-4188-AABE-9C810D5D4DA3"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-6",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "9E9360E0-6CD1-4C30-ADF2-176D179C6462"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "NORWALK-SANTAFESPRINGS",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A0B98CBA-46EA-4995-8397-1438EAAFC7F4"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "SANCLEMENTE-NORTHBEACH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A0EB3BC8-980B-44C6-8916-2AD014926718"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "BALDWINPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A19BF35F-0EC9-4F80-89F8-734A49EF8126"
+    },
+    {
+        "PlayTime": "\/Date(1721041200000)\/",
+        "Message": "AS PART OF THE FOOTHILL GOLD LINE PROJECT, WEEKDAY ACTIVE TRAIN TESTING WILL TAKE PLACE THRU DECEMBER 31, BETWEEN 6 P M AND 4 30 A M. PLEASE FOLLOW ALL SAFETY INSTRUCTIONS AND BE AWARE OF ACTIVE TRAINS AND CROSSING GATES.",
+        "Platform": "POMONA-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A329EB64-6057-455B-AE1D-8E4BFCE85FB7"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "BURBANK-AIRPORT-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A485F990-29D2-4465-A961-572AD9216404"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "AMTRAK-THRUWAY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A510588B-2ED1-49C8-9603-8A170BD6664E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "PALMDALE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A53EFE80-1DA6-4F50-AFAE-EB4D417031D1"
+    },
+    {
+        "PlayTime": "\/Date(1727998710000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A54AFE7D-52F7-40F8-8F8D-C2E7FF220206"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANTACLARITA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A581A01F-37CB-4C83-8C5C-3C1CA64BBCFD"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-2",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A6D38BEC-98EB-40DA-B232-53B1E4C01B40"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "MORENOVALLEY-MARCHFIELD",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A859D1A3-6EB3-4507-B65F-51090473CEF9"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "CORONA-NORTHMAIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A86EF3A9-A686-49AB-AAD3-78931B88C942"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LANCASTER",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "A8AA8D33-3AE9-4904-B534-8032D285E766"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "AA3783EC-EB12-4112-82F1-F362F788E301"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANJUANCAPISTRANO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "AA3A634D-720B-447E-BDDF-6E24512BF702"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "NORTHRIDGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "ABE005BD-B6AE-4D2F-8E1C-767792573144"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "TUSTIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "AC5A239D-649A-4F21-9221-350ED69C000F"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-6",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "AE04D010-3BF0-487A-BC26-0605D4B0BE84"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "VISTA-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "AF0E82D2-C3B6-41D3-8848-139A07EA5A4D"
+    },
+    {
+        "PlayTime": "\/Date(1727998710000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B00FB2F6-9D89-4D51-8B0F-90460838C0A6"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "OCEANSIDE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B1E35AF8-2B91-4730-95FA-CFC917F7292D"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "RIVERSIDE-LASIERRA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B3E89B0B-396D-424D-8CF1-D0443C2BC504"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B44FABD3-D3F5-4910-9616-E1E2B6F6109E"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SANJUANCAPISTRANO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B508DDD0-F6EB-49A0-8AD1-B5E932865161"
+    },
+    {
+        "PlayTime": "\/Date(1727607600000)\/",
+        "Message": "SATURDAY, OCTOBER 5, ACCESS TO THE NORTH AND SOUTH STATION PARKING LOTS FROM MOORPARK AVENUE AND HIGH STREET WILL BE CLOSED DURING THE MOORPARK COUNTRY DAYS PARADE BETWEEN 8:00 A.M. AND 12:00 P.M. ",
+        "Platform": "MOORPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B53354E0-410A-4EC4-8EB6-741C79FF0296"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "POMONA-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B5961753-30C6-4F07-AA82-2272B7782D47"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "CORONA-WEST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B5D3121E-6AE9-4A78-88E8-81CC36DA52F8"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "SIMIVALLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B5FB4DBB-33B4-4E93-9181-2EE7047A5F78"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "INDUSTRY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B962BB73-92BF-4D3C-A149-C4CFE3383D2D"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "MORENOVALLEY-MARCHFIELD",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "B9830ADA-73FE-40E5-BD4E-D818B025E88E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "UPLAND",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BA351D2C-AAE4-4886-A9A5-ADAD56836197"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BA97B190-0E43-4504-8DA1-E44C8137BDC9"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANCLEMENTE-PIERSTATION",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BAA43EC7-15E7-4C47-BE37-6FED48ED9A40"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "SYLMAR-SANFERNANDO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BC6E3243-FF16-4CAA-88E7-904F7B4EC9CE"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "VANNUYS",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BDA8DCE3-22E7-4C80-B6F7-6BB62FB577FF"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-2",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BDF2D551-D82A-44CD-86E4-ADD990DD374A"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "CHATSWORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BEBFC71A-AC2D-421D-86AB-6D3F63F309B6"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "BURBANK-AIRPORT-SOUTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "BF41B2DB-4ED2-48E9-8EB3-4705E0CDC057"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C06F54AA-93B1-47F4-81B4-9C807E0380DA"
+    },
+    {
+        "PlayTime": "\/Date(1727998709000)\/",
+        "Message": "METROLINK 686 TO IRVINE IS DELAYED UP TO 15 MINUTES.",
+        "Platform": "ANAHIEM-STADIUM",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C25049C1-352D-4AD7-97C3-98A05C4B9D38"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "FONTANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C470E657-95F6-40E2-8D2D-108273E7B02C"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "FONTANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C48C2C3C-EFCD-4A74-A04F-30F812C49D08"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-2",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C4C79790-BD6A-4AD3-9B5C-CB34445AFC23"
+    },
+    {
+        "PlayTime": "\/Date(1727998374000)\/",
+        "Message": "METROLINK 602 TO OCEANSIDE IS DELAYED UP TO 25 MINUTES. ",
+        "Platform": "SANJUANCAPISTRANO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C5BBD145-1983-418A-A931-75A3C65E1AAF"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SIMIVALLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C6465354-8017-4829-B233-B2955006AFC2"
+    },
+    {
+        "PlayTime": "\/Date(1724209174000)\/",
+        "Message": "FOR YOUR SAFETY, WHEN ACCESSING THE TRACK 1 PLATFORM, PLEASE USE THE DESIGNATED PEDESTRIAN WALKWAYS TO CROSS THE TRACKS. IT IS DANGEROUS AND ILLEGAL TO WALK ON THE TRACKS. ",
+        "Platform": "MONTEBELLO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "C7E878FB-ECED-4AB7-90F9-2BA3F7B2E0A9"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "CORONA-WEST",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CA3A9EF1-AFF3-49BC-8F39-7B247F67CED5"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "ORANGE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CA9D6D28-E5B1-41FF-966E-68836B304E4F"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "NEWHALL",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CB7A1B4D-6981-4D43-8C37-A4D351F5CCB1"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "RIVERSIDE-LASIERRA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CBDCFE40-5CD1-49A7-972E-FF9ABB7D627E"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SYLMAR-SANFERNANDO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CC4D1A61-EB70-48F5-9F87-817953130B11"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANBERNARDINOTRAN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CE80DBF1-0C93-4BDF-83A0-C63B4D24D703"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "SUNVALLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CF5FF8A0-42C5-48CC-8C95-2A1BF44C3217"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "VINCENTGRADE-ACTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "CFFB5570-FB4B-482B-951B-B3DC7688935B"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "ANAHIEM-STADIUM",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D0823E29-FE3D-40F6-BA15-F17F8325175F"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D0E30B64-C22A-45A5-8CFC-6B838A3977A4"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D2C2E8B0-2018-4A9E-8FB4-FE1F161DD51A"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D3528063-CF44-42DA-9B46-C8D4AB84706D"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "POMONA-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D399A108-70A6-4FB8-BC42-0C2C5A6FF4A6"
+    },
+    {
+        "PlayTime": "\/Date(1726529880000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE I E O C LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "SANJUANCAPISTRANO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D3B14090-E527-42DD-9373-E8AF9C3CF1AC"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "VIAPRINCESSA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D43C17D9-2FD7-44BA-9489-60C9E7907B80"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CHATSWORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D446AAC1-76D2-4497-9EC7-3C97C10208C0"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "ANAHEIM-CANYON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D50BA338-BB46-4E82-A1BE-ABB9FBC90182"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "SANTAANA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "D56D0FC1-9E95-456B-914A-75262FCD6A4A"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "RIVERSIDE-LASIERRA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DA22C2A3-535B-4FA8-980A-DFA316F982D1"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "POMONA-NORTH",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DCBC87FA-4DC3-4776-9819-AA6226F4B438"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO ARROW SERVICE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "REDLANDS-DOWNTOWN-ARROW",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DD0F576F-3167-4433-A077-D4BDDB9AC4EB"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "LAUS-PLATFORM-6",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DD3BCE63-49AB-4E57-BEAA-50843BCA659E"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "FULLERTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DD6627BA-CF4B-46A2-AD90-A5F34C260416"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "NORWALK-SANTAFESPRINGS",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "DEE0B34F-6774-478C-8216-C36BCF1E2F56"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "BUENAPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "E38DDB6A-443F-49F0-8CE0-590C6CDD986C"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "E415D6B2-8089-402A-8E11-C90A7BEFD26F"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "LAUS-PLATFORM-2",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "E6D79E4D-1268-47E5-8724-D4227262FCF1"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "NORWALK-SANTAFESPRINGS",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "E739C66F-CFB8-4CBA-A326-B4A4BEF93420"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "E85AA8F2-4120-484C-83B5-AE24C228FD43"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-4",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EB554DE1-E484-40F2-A92F-767ED31B2120"
+    },
+    {
+        "PlayTime": "\/Date(1727997720000)\/",
+        "Message": "METROLINK 810 TO SAN BERNARDINO-DOWNTOWN WILL USE TRACK 1 FOR TODAY",
+        "Platform": "LAGUNANIGUEL-MISSIONVIEJO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EB57BE90-C0BD-4414-85E3-BC972FA60C62"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CALSTATE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EB9F7C26-8903-4AFF-8F6D-09CF3851D48B"
+    },
+    {
+        "PlayTime": "\/Date(1727995307000)\/",
+        "Message": "METROLINK 808 TO SAN BERNARDINO-DOWNTOWN IS DELAYED UP TO 15 MINUTES DUE TO DELAYED TRAIN 684.",
+        "Platform": "CORONA-NORTHMAIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC0F6993-6CD4-47D1-BF9C-6901CFD44BAA"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "BALDWINPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC1C9951-6C20-4659-BB8A-9847DD27EC8E"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "RIVERSIDE-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC27C2F4-D943-4ADA-AC31-8CE722CFFF02"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "CORONA-NORTHMAIN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC315EF1-4EB5-4CEF-9D26-F28E57AF2E6D"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "FULLERTON",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC5EE8DB-FD89-4F78-86BB-78E27C38327E"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "ELMONTE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EC61708A-0802-4589-A917-D44575867CD0"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CLAREMONT",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "ECD9D5E7-3EE6-4376-8D36-EABA3F1C1938"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "REDLANDS-UNIVERSITY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "ED6EDDC2-0BA4-4848-92CB-0EBEA7B7D9FF"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "CAMARILLO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "ED7011CD-8C7F-4CCA-80B2-9A797F197CE3"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "SANBERNARDINO-TIPPECANOE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EE0F5F29-08A8-4331-AB56-C3441EF61DA6"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "THIS WEEKEND, AV LINE TRAINS WILL ONLY RUN BETWEEN NEWHALL AND LOS ANGELES ON A MODIFIED SCHEDULE DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFO VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465",
+        "Platform": "LAUS-PLATFORM-5",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "EE169B49-7ED1-4B89-B745-CA42E2CAD585"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "BUENAPARK",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F19FE455-BC4E-4FE9-B29F-9E69679B2EF3"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "SANTACLARITA",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F23A6C4E-7EF8-407F-80B2-DA91AD9DAD6F"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "CAMARILLO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F483B8B6-5480-4E81-A847-4D3A548A8C36"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F5EC55FD-23CE-4A3B-9543-9B4FF0915C05"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "LAUS-PLATFORM-3",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F707CE75-F790-43B7-9527-CE249F659EE5"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "UPLAND",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "F9DDF2D9-901E-4AEF-B3A4-7EC235D37729"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO VENTURA COUNTY LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "BURBANK-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FAA66C8E-DF8D-43E1-850A-DAE0E9FDE00E"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-7",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FAA6897D-CC15-47A5-A35C-2E57D280E25C"
+    },
+    {
+        "PlayTime": "\/Date(1726484400000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO RIVERSIDE LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465. ",
+        "Platform": "PEDLEY",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FB4A5374-C3BE-4529-AF28-C5E21104E7CC"
+    },
+    {
+        "PlayTime": "\/Date(1727438400000)\/",
+        "Message": "SUPPORT OUR NEXT STEP TO CLEANER AIR BY SUPPORTING NEW TIER 4S. VISIT METROLINKTRAINS.COM/TIER4",
+        "Platform": "ELMONTE",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FBBC4797-6D5F-403B-8892-11BA9940301F"
+    },
+    {
+        "PlayTime": "\/Date(1727694000000)\/",
+        "Message": "ON FRIDAY, OCTOBER 4, AV LINE TRAINS 231, 235 AND 238 WILL NOT RUN DUE TO TRACK MAINTENANCE. ALTERNATE TRANSPORTATION WILL BE PROVIDED. VISIT METROLINKTRAINS.COM OR CALL 800 371 5465.",
+        "Platform": "SYLMAR-SANFERNANDO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FC3676B0-3BDD-4EF1-A700-1285C419A675"
+    },
+    {
+        "PlayTime": "\/Date(1727921552000)\/",
+        "Message": "SATURDAY AND SUNDAY, OCTOBER 12 AND 13, METROLINK TRAINS WILL NOT RUN BETWEEN LAGUNA NIGUEL AND OCEANSIDE. ALTERNATE TRANSPORTATION WILL NOT BE AVAILABLE. FOR MORE INFORMATION VISIT METROLINKTRAINS.COM OR CALL 800 3 7 1 54 65",
+        "Platform": "SANJUANCAPISTRANO",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FC527728-91DD-4DFE-86B5-FC334DC51776"
+    },
+    {
+        "PlayTime": "\/Date(1726480800000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO SAN BERNARDINO LINE TRAINS. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "CLAREMONT",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FDE6745F-5ADB-451D-B8E3-BF3B0A2C8CFE"
+    },
+    {
+        "PlayTime": "\/Date(1726488000000)\/",
+        "Message": "ON MONDAY, OCTOBER 21, METROLINK WILL IMPLEMENT A NEW SCHEDULE WITH UPDATES TO THE ORANGE COUNTY LINE. FOR MORE INFO, VISIT METROLINKTRAINS.COM OR CALL OR TEXT 800 371 5465.",
+        "Platform": "LAUS-PLATFORM-7",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FEAE248E-B2A4-4810-8FC2-0132F2EABFF9"
+    },
+    {
+        "PlayTime": "\/Date(1727997522000)\/",
+        "Message": "METROLINK 704 TO PERRIS - SOUTH IS DELAYED UP TO 15 MINUTES DUE TO BNSF PTC",
+        "Platform": "PERRIS-DOWNTOWN",
+        "Line": "ALL",
+        "Type": "Service Advisory",
+        "ID": "FEC6B89D-A86F-4DC8-98F0-BFF5AFDE7EAA"
+    }
+]
